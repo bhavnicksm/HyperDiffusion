@@ -141,3 +141,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Additional files
+/model/*
+/mlp_weights/*
+
+data/02691156/02691156_2048_pc.zip
